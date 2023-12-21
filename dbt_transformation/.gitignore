@@ -1,4 +1,5 @@
-
+modern_data_stack_project.egg-info/
 target/
 dbt_packages/
 logs/
+venv
